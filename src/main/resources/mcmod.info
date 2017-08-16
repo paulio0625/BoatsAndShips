@@ -1,0 +1,16 @@
+[
+{
+  "modid": "bas",
+  "name": "BoatsAndShips",
+  "description": "A mod dedicated to improving travel for all those stupid enough to turn to this mod for transportation.",
+  "version": "${1.0}",
+  "mcversion": "${1.12}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["paulio0625"],
+  "credits": "Fuck you for reading this you fucking try hard go fuck yourself silly with a stun gun!!!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
