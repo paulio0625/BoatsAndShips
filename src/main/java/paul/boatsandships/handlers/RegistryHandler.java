@@ -5,6 +5,6 @@ public class RegistryHandler {
 		
 	}
 	public static void Common() {
-		as
+		
 	}
 }
